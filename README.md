@@ -9,6 +9,12 @@ The user's time, date and name will be added to a publically accessible list tha
 
 Once complete, the app will be available on Android and iOS devices as well as through a traditional URL. 
 
-The user arrives to the base of Tumamoc Hill where she will find a QR code at the trailhead. After scanning the code, a registration page is delivered. Only a name and maybe a zipcode will be asked. 
+The user arrives to the base of Tumamoc Hill where she will find a QR code at the trailhead. After scanning the code, a registration page is delivered. Only a name and maybe a zipcode and Twitter handle will be asked. 
 
 The user then taps a button to start the timer. When the user reaches the summit, another QR code awaits. Scanning this code will stop the timer and log the session's date and time and other info (if provided). The scan delivers results and leaderboard page. 
+
+## Planned Features
+
+Users will be awarded badges on varying categories. This includes best time, most frequented or even badges based on completing a session under certain weather conditions (rain, heat, cold). 
+
+Everytime a user completes a walk, the data is sent 
