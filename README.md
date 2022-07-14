@@ -1,7 +1,9 @@
 # Welcome to the Tumamoc Hill Run Ranker
 ## This app is currently under development
 ## About
-The TmocRanker app allows users to compete, track and rank their sessions one of Tucson, Arizona's most popular trails. The user's time, date and name will be added to a publically accessible list that compares it to other users of the app.
+The TmocRanker app allows users to compete, track and rank their walks (or runs!) along one of Tucson, Arizona's most popular trails, Tumamoc Hill. 
+
+The user's time, date and name will be added to a publically accessible list that compares it to other users of the app.
 
 ## How to Use
 
