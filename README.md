@@ -17,4 +17,4 @@ The user then taps a button to start the timer. When the user reaches the summit
 
 Users will be awarded badges on varying categories. This includes best time, most frequented or even badges based on completing a session under certain weather conditions (rain, heat, cold). 
 
-Everytime a user completes a walk, the data is sent 
+Everytime a user completes a walk, a congrats tweet is sent out via Twitter bot with user's Twitter handle (if provided). 
